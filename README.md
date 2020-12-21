@@ -10,5 +10,5 @@ $ npm i
 ## Usage
 
 ```bash
-$ node index
+$ node index.js
 ```
